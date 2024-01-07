@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 - 🔭 I’m currently focusing on upgrading skills 👨⌛️
-- 🌱 Primary for 2024: Create and Deploy a Personal Project I am proud of 👨🏻‍💻
+- 🌱 Goal for 2024: Create and Deploy a Personal Project I am proud of 👨🏻‍💻
 - 👯 Open to collaborate 🧑‍💻
 - ⚙️ Always learning and loves to share with the community 🌍
 - 💬 Ask me about anything, I will be happy to help 👦🏻🥰
