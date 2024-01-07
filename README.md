@@ -10,7 +10,7 @@
 - 🤗 Love to make new connections 👫🐥
 
 ### 🛠 Currently commited to
-Rust | Typescript | AWS | Docker | NixOS | react-native
+Rust | Typescript | PHP | AWS | Docker | NixOS | react-native
 
 ### 📕 Things I am currently looking forward to learn in 2024
-Terraform | Godot | IoT automation | 3D printing
+Terraform | Godot | IoT automation | 3D printing 
