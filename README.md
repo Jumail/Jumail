@@ -13,4 +13,4 @@
 Rust | Typescript | PHP | AWS | Docker | NixOS | react-native
 
 ### 📕 Things I am currently looking forward to learn in 2024
-Terraform | Godot | IoT automation | 3D printing 
+Terraform | Game development (Unity/Godot) | IoT automation | 3D printing 
