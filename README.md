@@ -9,6 +9,9 @@
 - 😍 For Business deals reach me through 📩
 - 🤗 Love to make new connections 👫🐥
 
+### What I am working on right now
+- Updating the infrastructure for FollowMe Tracking Service
+
 ### 🛠 Currently commited to
 Rust | Typescript | PHP | AWS | Docker | NixOS | react-native
 
